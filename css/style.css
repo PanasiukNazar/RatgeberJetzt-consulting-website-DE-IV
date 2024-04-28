@@ -300,6 +300,7 @@ button {
 /** banner section **/
 
 .banner_main {
+    background-size: cover;
     background: url(../images/banner.jpg);
     padding: 127px 0px 0px 0px;
     background-size: 100% 100%;
